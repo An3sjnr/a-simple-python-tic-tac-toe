@@ -41,11 +41,13 @@ def play_game():
         if check_winner(current_player):
             display_board()
             print(f" Player {current_player} wins!")
+            time.sleep(3)
             return
         current_player = "O" if current_player == "X" else "X"
     
     display_board()
     print("It's a tie!")
+    time.sleep(5)
 
 play_game()
 
