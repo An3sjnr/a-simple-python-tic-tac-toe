@@ -8,6 +8,16 @@ Two players take turns placing **X** and **O** on the board until one player win
 - Two-player gameplay (local)
 - Automatic win/tie detection
 
+##Visuals
+ X | O | X
+---+---+---
+ O | X |  
+---+---+---
+   |   | O
+
+Player X wins!
+
+
 ## How to Run
 1. Clone this repository:
    ```bash
