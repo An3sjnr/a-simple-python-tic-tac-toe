@@ -9,6 +9,7 @@ Two players take turns placing **X** and **O** on the board until one player win
 - Automatic win/tie detection
 
 ##Visuals
+
  X | O | X
  
 ---+---+---
